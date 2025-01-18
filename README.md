@@ -9,5 +9,9 @@
 
 不限制采集群数量！！！
 
-一定要关闭杀毒 如果双击打开软件不显示那么请开启数据保护。文件夹里面有开启的方法。![Uploading IMG_5372.png…]()
+一定要关闭杀毒 如果双击打开软件不显示那么请开启数据保护。文件夹里面有开启的方法。![IMG_6170](https://github.com/user-attachments/assets/339beadd-c097-440e-aa5e-55a6ffce6477)
+![IMG_5370](https://github.com/user-attachments/assets/53d2da79-85e0-451d-859f-6e7ebe124788)
+![IMG_5371](https://github.com/user-attachments/assets/aad9aad2-3847-4382-a799-db7e0c8af2b5)
+![IMG_5372](https://github.com/user-attachments/assets/ab063d12-ff00-452a-b7a4-943c3f99f405)
+
 
